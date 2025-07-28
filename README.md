@@ -17,10 +17,6 @@ This project aims to use the restaurant tips dataset to practice creating compos
 - `time`: Lunch or Dinner
 - `size`: Party size
 
-### How to Access the Data
-You can download the dataset using the following link:
-
-📎 [Click here to download tips.csv](https://raw.githubusercontent.com/RusAbk/sca_datasets/main/tips.csv)
 
 ## 🎯 Main Goals
 - Explore tipping patterns across different variables
